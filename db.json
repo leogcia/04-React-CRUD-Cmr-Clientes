@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "Leonardo",
+      "empresa": "Solo solin solitoXD",
+      "email": "correo@correo.com",
+      "telefono": "5513325765",
+      "notas": "El cliente está capacitandose para ser un dev",
+      "id": 2
+    },
+    {
+      "nombre": "Nana Contreras",
+      "empresa": "NanRoots",
+      "email": "correo@correo.com",
+      "telefono": "45621684",
+      "notas": "",
+      "id": 5
+    },
+    {
+      "nombre": "mada",
+      "empresa": "donwebon SA de CV",
+      "email": "correo@correo.com",
+      "telefono": "",
+      "notas": "ora puños!!",
+      "id": 6
+    }
+  ]
+}
