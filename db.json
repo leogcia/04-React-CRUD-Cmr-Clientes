@@ -1,20 +1,20 @@
 {
   "clientes": [
     {
-      "nombre": "Nana Contreras",
-      "empresa": "NanRoots",
-      "email": "correo@correo.com",
-      "telefono": "45621684",
-      "notas": "",
-      "id": 5
-    },
-    {
       "nombre": "mada",
       "empresa": "donwebon SA de CV",
       "email": "correo@correo.com",
       "telefono": "",
       "notas": "ora puños!!",
       "id": 6
+    },
+    {
+      "nombre": "Leonardo Garcia Act",
+      "empresa": "segundo actualizada",
+      "email": "correo@correo.com",
+      "telefono": "42342324",
+      "notas": "ultima prueba",
+      "id": 7
     }
   ]
 }

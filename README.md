@@ -13,7 +13,12 @@
 -Validación de formulario<br>
 -Enviar peticiones a un servidor, actualizar, eliminar, crear nuevos registros "CRUD"<br><br>
 
--Nota: Acceder a la pestaña "/clientes" para ver el contenido
+-Nota: Para Acceder al modo producción se requiere:<br><br>
+-npm run build<br>
+-npm run preview<br>
+-acceder a la ruta /clientes<br>
+
+
 
 
 <br>

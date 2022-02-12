@@ -48,7 +48,7 @@ function Formulario({cliente, cargando}) {
                 })
             }
             await respuesta.json()
-            navigate('/clientes');   //Redirecionamos a clientes cuando completamos el formulario
+            navigate('/');   //Redirecionamos a clientes cuando completamos el formulario
         } catch (error) {
             console.log(error);
         }
