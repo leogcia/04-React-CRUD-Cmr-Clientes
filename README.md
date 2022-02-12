@@ -14,13 +14,6 @@
 -Enviar peticiones a un servidor, actualizar, eliminar, crear nuevos registros "CRUD"<br><br>
 
 -Nota: Para Acceder al modo producción se requiere:<br><br>
+-instalar dependencias<br>
 -npm run build<br>
 -npm run preview<br>
--acceder a la ruta /clientes<br>
-
-
-
-
-<br>
-
-# Link:  https://03reactappcriptocompare.netlify.app/
