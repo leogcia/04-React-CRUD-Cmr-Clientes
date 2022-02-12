@@ -11,7 +11,9 @@
 -Formularios con Formik y Yup<br>
 -Uso de REST API<br>
 -Validación de formulario<br>
--Enviar peticiones a un servidor, actualizar, eliminar, crear nuevos registros "CRUD"<br>
+-Enviar peticiones a un servidor, actualizar, eliminar, crear nuevos registros "CRUD"<br><br>
+
+-Nota: Acceder a la pestaña "/clientes" para ver el contenido
 
 
 <br>
